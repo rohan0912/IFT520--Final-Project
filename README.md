@@ -1,5 +1,11 @@
 # IFT520--Final-Project
 
+                                                                        SECURING FINANCIAL TRANSACTIONS: ADVANCED CREDIT CARD FRAUD DETECTION
+                                                                                                  Group 9 – Final Project Report
+                                                                                                  Vineetha Batreddi (1228419909)
+                                                                                                     Shreya Kaushik (1229311527)
+                                                                                                Rohan Sreedharan Nair (1224840006)
+
 This research introduces a machine learning-based credit card fraud detection system, integrating a genetic algorithm for feature selection. The goal is to identify crucial features that contribute significantly to fraud detection. Upon determining these optimized features, the engine uses various machine learning classifiers for fraud detection, including Decision Tree, Random Forest, Logistic Regression, Artificial Neural Network, and Naive Bayes. The evaluation of this system is performed using a dataset from European cardholders.
 
 To effectively assess the engine's performance, the credit card usage data is divided into training and testing sets in an 80:20 ratio. This split is achieved using a combination of random forest algorithms and decision trees. Such an approach is beneficial for analyzing large datasets and the latest user data, thereby improving the accuracy of the results.
